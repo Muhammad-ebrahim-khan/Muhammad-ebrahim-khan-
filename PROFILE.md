@@ -23,7 +23,7 @@
 #### Shards
 
 <div align="center">
-  <img src="https://github.com/username/username/blob/main/shard.png" alt="Shard" width="100%" height="200px">
+  <img src="https://github.com/username/username/blob/main/Iki.png" alt="Shard" width="100%" height="200px">
 </div>
 
 <style>
