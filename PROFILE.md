@@ -4,31 +4,13 @@
   <img src="https://github.com/username/username/blob/main/shard.png" alt="Shard" width="100%" height="200px">
 </div>
 
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm Ebrahim 👋
 
 #### About Me
 
-* I'm a [Your Profession/Student] with a passion for [Your Interests]
-* I'm currently working on [Your Current Project]
-* I'm excited to learn more about [Your Desired Skills]
-
-#### Skills
-
-* Programming languages: [List your programming languages]
-* Tools: [List your tools]
-* Operating Systems: [List your operating systems]
-
-#### Projects
-
-* [Project 1](https://github.com/username/project1)
-* [Project 2](https://github.com/username/project2)
-* [Project 3](https://github.com/username/project3)
-
-#### Contact Me
-
-* Email: [your email]
-* LinkedIn: [your linkedin profile]
-* Twitter: [your twitter profile]
+* I'm a code with a passion.
+* I'm currently working on 
+* I'm excited to learn more about coding
 
 #### GitHub Stats
 
