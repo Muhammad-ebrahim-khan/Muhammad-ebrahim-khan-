@@ -14,11 +14,11 @@
 
 #### GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&count_private=true)](https://github.com/your-username)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-ebrahim-khan&show_icons=true&theme=dark&count_private=true)](https://github.com/Muhammad-ebrahim-khan)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)](https://github.com/your-username)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-ebrahim-khan&theme=dark)](https://github.com/Muhammad-ebrahim-khan)
 
-[![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)](https://github.com/your-username)
+[![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-ebrahim-khan&layout=compact&theme=dark)](https://github.com/Muhammad-ebrahim-khan)
 
 #### Shards
 
