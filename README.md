@@ -69,16 +69,6 @@
 
 ---
 
-## 📂 Projects
-### [Project 1](#)
-Description: Brief description of the project.
-
-### [Project 2](#)
-Description: Brief description of the project.
-
-### [Project 3](#)
-Description: Brief description of the project.
-
 ---
 
 ## 📫 Contact
@@ -110,5 +100,5 @@ I occasionally write articles on my blog about software development and best pra
 ---
 
 <p align="center">
-  Thank you for visiting my profile! Have a great day! 😊
+  Thank you for visiting my profile! Have a great day! 
 </p>
