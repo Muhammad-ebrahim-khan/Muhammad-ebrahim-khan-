@@ -4,11 +4,7 @@ Welcome to my GitHub profile! I am a passionate software developer with a strong
 
 ## 🔧 Technologies & Tools
 - **Languages**: JavaScript, Python, Java, C++, Go
-- **Frameworks**: React, Angular, Django, Spring Boot
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **DevOps**: Docker, Kubernetes, Jenkins, GitHub Actions
-- **Cloud**: AWS, Azure, GCP
-- **Others**: Git, RESTful APIs, GraphQL, Microservices
+
 
 ## 📈 GitHub Stats
 ![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-ebrahim-khan&show_icons=true&theme=radical)
