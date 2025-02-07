@@ -62,13 +62,6 @@
 
 ---
 
-## 🏆 Achievements
-- Developed a scalable microservices architecture for now, which improved system performance by 40%.
-- Contributed to open-source projects such as [Open Source Project 1](#) and [Open Source Project 2](#).
-- Speaker at [Conference/Meetup](#), where I presented on nothing.
-
----
-
 ---
 
 ## 📫 Contact
